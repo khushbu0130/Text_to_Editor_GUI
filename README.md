@@ -4,6 +4,9 @@ A simple Text Editor GUI built using Python’s tkinter library.
 This application allows users to create, edit, open, and save text files with a clean, responsive interface.
 
 
+![image_alt](https://github.com/khushbu0130/Text_to_Editor_GUI/blob/e062b5b33772a26f4d3b2eaa29660de2b3eb5e01/GUI.png)
+
+
 
 ## 🚀 Features
 
